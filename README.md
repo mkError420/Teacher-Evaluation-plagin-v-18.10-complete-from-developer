@@ -1,7 +1,7 @@
 # Teacher Evaluation Survey
 
 **Develop By:** MK.RABBANI(Website manager at Rangpur Group)  
-**Version:** 17.10  
+**Version:** 18.10  
 **Requires at least:** WordPress 5.0  
 **Tested up to:** WordPress 6.4  
 
